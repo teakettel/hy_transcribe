@@ -1,0 +1,19 @@
+# Armenian Speech-to-text Models 
+
+An exploratory repository searching for the easiest and most accurate Armenian transcription for academic use 
+
+## Setup 
+
+I'm using `uv` for my python dependency management. Check here[https://docs.astral.sh/uv/guides/projects/] for the docs. 
+
+To install `uv`: 
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Make sure `uv` is up-to-date 
+```
+uv self update
+```
+
+
