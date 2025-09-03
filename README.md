@@ -16,4 +16,4 @@ Make sure `uv` is up-to-date
 uv self update
 ```
 
-
+When running in a new environment, you should build and activate your environment
