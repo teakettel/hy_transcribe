@@ -1,6 +1,6 @@
-# Armenian Speech-to-text Models 
+https://github.com/teakettel/hy_transcribe/blob/main/README.md# Armenian Speech-to-text Models 
 
-An exploratory repository searching for the easiest and most accurate Armenian transcription for academic use 
+An exploratory repository searching for the most accurate Armenian transcription models and methods for academic use 
 
 ## Setup 
 
